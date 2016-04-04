@@ -1,0 +1,43 @@
+<html ng-app='my-site'>
+<head>
+  <meta charset="utf-8">
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My site</title>
+  <!-- ANGULAR -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-route.js"></script>
+
+  <!-- CSS STUFF -->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+   <!--Import Google Icon Font-->
+   <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+   <!--Import materialize.css-->
+   <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+   <!-- JS stuff -->
+   <script src='js/app.js' charset='utf-8'></script>
+   <base href="/">
+</head>
+
+<body ng-app="mySite">
+  
+
+  <header>
+    <nav class="nav-bar blue-grey darken-4">
+      <ul>
+        <li id='nav-li'><a href="/">Home</a>
+        <li id='nav-li'><a href="/about">About</a>
+        <li id='nav-li'><a href="/projects">Projects</a>
+        <li id='nav-li'><a href="/contact">Contact</a>
+      </ul>
+    </nav>
+  </header>
+  
+  <div ng-view></div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+
+</body>
+</html>
