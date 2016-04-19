@@ -8,8 +8,15 @@ a {
 }
 
 #johnpic {
-	background-image: url("/images/john.jpg");
-	border: 5px solid purple;
-	height: 300px;
-	width: 300px;
+	background: url("/images/john.jpg");
+	background-size: 500px 500px;
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 500px;
+	margin-top: 1%;
+}
+
+h2 {
+font-family: entangled; 
+font-style: bold;
 }
