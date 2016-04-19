@@ -6,3 +6,10 @@
 a {
 	text-decoration: none;
 }
+
+#johnpic {
+	background-image: url("/images/john.jpg");
+	border: 5px solid purple;
+	height: 300px;
+	width: 300px;
+}
