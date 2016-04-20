@@ -36,7 +36,7 @@ body {
 	animation-iteration-count: infinite;
 }
 
-@keyframes groovy {
+/*@keyframes groovy {
 	0% {background: #e91e63;}
 	10% {background: #d81b60;}
 	20% {background: #c2185b;}
@@ -48,7 +48,7 @@ body {
 	80% {background: #f06292;}
 	90% {background: #ff80ab;}
 	100% {background: #ec407a;}
-}
+}*/
 
 #home, #about, #contact {
 	border: 5px solid pink;
