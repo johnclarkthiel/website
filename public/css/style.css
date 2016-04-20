@@ -21,6 +21,10 @@ font-family: entangled;
 font-style: bold;
 }
 
+li {
+	border-right: 1px solid snow;
+	border-left: 1px solid snow;
+}
 
 /*#ennui {
 	background: url("/images/ennui4.jpg");
