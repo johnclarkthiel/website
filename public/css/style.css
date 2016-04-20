@@ -31,10 +31,29 @@ font-style: bold;
 
 body {
 	background: #e91e63;
+	animation-name: groovy;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes groovy {
+	0% {background: #e91e63;}
+	10% {background: #d81b60;}
+	20% {background: #c2185b;}
+	30% {background: #ad1457;}
+	40% {background: #c2185b;}
+	50% {background: #d81b60;}
+	60% {background: #e91e63;}
+	70% {background: #ec407a;}
+	80% {background: #f06292;}
+	90% {background: #ff80ab;}
+	100% {background: #ec407a;}
 }
 
 #home, #about, #contact {
 	border: 5px solid pink;
 	background: snow;
+	opacity: 0.98;
+	width: 90%;
 }
 
