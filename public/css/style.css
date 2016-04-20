@@ -33,7 +33,8 @@ body {
 	background: #e91e63;
 }
 
-#home {
+#home, #about, #contact {
 	border: 5px solid pink;
 	background: snow;
 }
+
