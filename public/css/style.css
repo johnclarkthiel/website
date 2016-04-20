@@ -64,3 +64,14 @@ a:hover {
 	font-size: 16px;
 }
 
+@media (max-width: 600px) {
+	#johnpic {
+	background: url("/images/john.jpg");
+	background-size: 200px 200px;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 200px;
+	margin-top: 1%;
+}
+}
+
