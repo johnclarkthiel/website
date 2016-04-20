@@ -28,3 +28,12 @@ font-style: bold;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }*/
+
+body {
+	background: #e91e63;
+}
+
+#home {
+	border: 5px solid pink;
+	background: snow;
+}

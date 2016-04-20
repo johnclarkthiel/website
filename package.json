@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.3",
+    "angular-material": "^1.0.7",
+    "angular-materialize": "^0.1.4",
     "angular-route": "^1.5.3",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
