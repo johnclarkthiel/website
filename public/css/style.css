@@ -53,7 +53,7 @@ body {
 #home, #about, #contact {
 	border: 5px solid pink;
 	background: snow;
-	opacity: 0.98;
+/*	opacity: 0.98;*/
 	width: 90%;
 }
 
