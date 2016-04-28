@@ -28,6 +28,18 @@ li {
 	border-left: 1px solid snow;
 }
 
+#footer {
+	margin-top: 5%;
+}
+
+#contact, #sub-contact {
+	height: 70%;
+	margin-top: 2.5%;
+}
+
+
+
+
 /*#ennui {
 	background: url("/images/ennui4.jpg");
 	height: 400px;
@@ -62,6 +74,9 @@ body {
 	background: snow;
 /*	opacity: 0.98;*/
 	width: 90%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 2.5%;
 }
 
 a:hover {
