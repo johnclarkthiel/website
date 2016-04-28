@@ -93,6 +93,10 @@ a:hover {
 	height: 200px;
 	width: 200px;
 	margin-top: 1%;
-}
+	}
+
+	#contact {
+		height: 60%;
+	}
 }
 
