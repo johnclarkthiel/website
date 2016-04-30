@@ -87,6 +87,11 @@ i:hover {
 	color: lightblue;
 }
 
+.contact-img:hover {
+		height: 40%;
+		width: 20%;
+}
+
 nav > div {
 	border: none;
 	display: block;
