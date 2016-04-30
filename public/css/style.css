@@ -28,9 +28,9 @@ li {
 	border-left: 1px solid snow;
 }
 
-#footer {
+/*#footer {
 	margin-top: 5%;
-}
+}*/
 
 #contact, #sub-contact {
 	height: 70%;
@@ -77,6 +77,14 @@ body {
 	padding-top: 2%;
 	padding-bottom: 2%;
 	margin-top: 2.5%;
+}
+
+nav	{
+	height: 100%;
+}
+
+footer {
+	margin-top: 5%;
 }
 
 a:hover {
