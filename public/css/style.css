@@ -83,6 +83,17 @@ nav	{
 	height: 100%;
 }
 
+i:hover {
+	color: lightblue;
+}
+
+nav > div {
+	border: none;
+	display: block;
+	float: left;
+	margin-left: 1%;
+}
+
 footer {
 	margin-top: 5%;
 }
