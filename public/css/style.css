@@ -80,8 +80,8 @@ i:hover {
 }
 
 .contact-img:hover {
-		height: 40%;
-		width: 20%;
+	padding: 1%;
+	background: #F5F5F5;
 }
 
 nav > div {
