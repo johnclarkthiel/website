@@ -5,6 +5,7 @@
 	font-weight: bold; 
 	font-style: bold;
 	font-size: 1.0125em;
+	text-align: justify;
 }
  
 a {
@@ -118,7 +119,7 @@ a:hover {
 	}
 
 	#aboutme {
-		width: 80%;
+		width: 100%;
 		text-align: justify;
 	}
 
