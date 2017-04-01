@@ -105,11 +105,10 @@ a:hover {
 @media (max-width: 600px) {
 	#johnpic {
 	background: url("/images/john.jpg");
-	background-size: 200px 200px;
+	background-size: 0px 0px;
 	background-repeat: no-repeat;
-	height: 200px;
-	width: 200px;
-	margin-top: 1%;
+	height: 0px;
+	width: 0px;
 	}
 
 	#contact {
