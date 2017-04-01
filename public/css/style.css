@@ -22,6 +22,7 @@ a {
 	border-radius: 5%;
 }
 
+
 h2, li {
 font-family: Arial, sans-serif;
 font-style: bold;
@@ -113,6 +114,17 @@ a:hover {
 
 	#contact {
 		height: 90%;
+	}
+
+	#aboutme {
+		width: 80%;
+	}
+
+	header {
+		width: 400%;
+	}
+	header > nav > ul > li {
+		width: 100%;
 	}
 }
 
