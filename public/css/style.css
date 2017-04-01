@@ -121,10 +121,10 @@ a:hover {
 	}
 
 	header {
-		width: 400%;
+		width: 500%;
 	}
 	header > nav > ul > li {
-		width: 100%;
+		width: 75%;
 	}
 }
 
