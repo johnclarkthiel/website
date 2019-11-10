@@ -17,7 +17,7 @@
     "express": "^4.13.4",
     "less": "^2.6.1",
     "method-override": "^2.3.5",
-    "mongoose": "^4.4.11",
+    "mongoose": "^5.7.9",
     "morgan": "^1.7.0"
   }
 }
