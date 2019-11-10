@@ -32,7 +32,11 @@ app.get('/about', function(req,res){
 	res.redirect('/');
 });
 
-app.get('/projects', function(req,res){
+// app.get('/projects', function(req,res){
+// 	res.redirect('/');
+// });
+
+app.get('/interests', function(req,res){
 	res.redirect('/');
 });
 

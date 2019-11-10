@@ -18,16 +18,21 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 		controller: 'StaticController',
 		controllerAs: 'statCtrl'
 	}).
-	when('/projects', {
-		templateUrl: 'partials/projects.html',
+// 	when('/projects', {
+// 		templateUrl: 'partials/projects.html',
+// 		controller: 'StaticController',
+// 		controllerAs: 'statCtrl'
+// }).
+	when('/interests', {
+		templateUrl: 'partials/interests.html',
 		controller: 'StaticController',
 		controllerAs: 'statCtrl'
-}).
+	}).
 	when('/contact', {
 		templateUrl: 'partials/contact.html',
 		controller: 'StaticController',
 		controllerAs: 'statCtrl'
-}).
+	}).
 	otherwise({
 		redirectTo: '/'
 	});
